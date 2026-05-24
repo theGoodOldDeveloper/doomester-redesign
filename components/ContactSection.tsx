@@ -27,9 +27,9 @@ export default function ContactSection() {
           <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
             <Link
               href="/contact"
-              className="inline-block bg-amber-accent text-dark font-extrabold text-sm tracking-[0.06em] uppercase px-7 py-3.5 rounded-xl hover:bg-amber-light transition-colors font-syne"
+              className="block w-full text-center bg-amber-accent text-dark font-extrabold text-sm tracking-[0.06em] uppercase px-4 py-3.5 rounded-xl hover:bg-amber-light transition-colors font-syne"
             >
-              Kapcsolatfelvételi űrlap megnyitása →
+              Email üzenet küldése →
             </Link>
           </motion.div>
         </div>
