@@ -1,0 +1,4 @@
+name: Biztonsági rendszer - Mindent látsz, mindenről tudsz
+description: Mozgásérzékelők, kamera integráció és riasztások, amelyek védik az otthonodat. Értesítéseket kapsz telefonodon, ha valami szokatlan történik.
+modaldescription: A Home Assistant biztonsági rendszere teljes körű védelmet nyújt az otthonodnak. Mozgásérzékelők, ajtó/ablak érzékelők és kamerák integrálása révén folyamatosan figyeli az otthonodat. Ha valami szokatlan történik, azonnal értesítést kapsz telefonodon vagy emailben. A rendszer képes különbséget tenni a családtagok és idegenek között, így nem kell felesleges riasztásokkal foglalkoznod. A kamera felvételek automatikusan tárolódnak, és bármikor visszanézheted őket.
+

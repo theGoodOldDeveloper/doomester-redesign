@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Syne:wght@400;700;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    background-color: #0d0d14;
+  }
+  body {
+    @apply text-cream antialiased;
+    font-family: 'Syne', sans-serif;
+  }
+}
+
+@layer utilities {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-[1.02] hover:-translate-y-1;
+  }
+
+  .amber-text {
+    @apply text-amber-accent;
+  }
+
+  .section-label {
+    @apply text-xs font-bold tracking-[0.2em] uppercase text-amber-accent flex items-center gap-2;
+  }
+
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: rgba(240, 140, 60, 0.2);
+  }
+
+  .font-lora {
+    font-family: 'Lora', serif;
+  }
+}

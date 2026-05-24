@@ -1,0 +1,4 @@
+name: Okos világítás - Automatikus fények, jelenetek, energiatakarékosság
+description: Automatikus fényerőszabályozás és színváltás a napidőszaknak megfelelően. A világítás automatikusan beállítja magát reggel, este és éjszaka, kényelmesebb életet biztosítva.
+modaldescription: Az okos világítás rendszer lehetővé teszi, hogy a lámpák automatikusan bekapcsoljanak és kikapcsoljanak a napidőszaknak megfelelően. A Home Assistant segítségével beállíthatod a világítás színét, intenzitását és időzítését. Például reggel hűvös fehér fényt használhatsz, este pedig meleg, pirosas árnyalatú fényt a jobb alvásért. A rendszer integrálható Zigbee, Z-Wave vagy WiFi eszközökkel, és akár színes RGB LED szalagokat is vezérelhet.
+

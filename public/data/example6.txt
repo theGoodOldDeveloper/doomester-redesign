@@ -1,0 +1,4 @@
+name: Háztartási rutinok automatizálása – Amikor a lakás dolgozik helyetted
+description: A mindennapi háztartási feladatok automatizálása: redőnyök, ventilátorok, porszívó, jelenetek és rutinok, amelyek önállóan működnek helyetted.
+modaldescription: A háztartási rutinok automatizálása teszi igazán „okossá” az otthont. A Home Assistant képes a redőnyöket napkeltekor felhúzni, este leengedni, a fürdő ventilátorát páratartalom alapján indítani, vagy a robotporszívót olyan időpontban elindítani, amikor senki sincs otthon. A különböző eszközök együttműködnek: a „Filmezés mód” lehúzza a redőnyöket, halkítja a világítást és kikapcsolja a zavaró eszközöket. A „Jó éjt” rutin minden lámpát lekapcsol és aktiválja a biztonsági rendszert. Ezek az apró, de folyamatosan működő automatizmusok rengeteg időt, energiát és felesleges kattintást spórolnak meg a mindennapokban.
+

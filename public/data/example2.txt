@@ -1,0 +1,4 @@
+name: Klíma és fűtés vezérlés - Komoly spórolás, stabil kényelem
+description: Intelligens hőmérséklet-szabályozás, amely megtanulja a preferenciáidat és automatikusan beállítja a kívánt hőmérsékletet. Energiatakarékos és kényelmes megoldás.
+modaldescription: A Home Assistant lehetővé teszi a klíma és fűtési rendszerek intelligens vezérlését. A rendszer megtanulja a napi rutinodat, és automatikusan beállítja a hőmérsékletet, amikor hazaérsz vagy elmész otthonról. Integrálható a legtöbb modern klímával, termosztáttal és fűtési rendszerrel. A rendszer figyelembe veszi a külső hőmérsékletet, a napsütést és a szobák használatát, így optimális kényelmet és energiatakarékosságot biztosít.
+
