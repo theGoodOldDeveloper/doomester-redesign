@@ -31,9 +31,13 @@ export default function Hero() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2 }}
-            className="inline-block bg-amber-dim border border-amber-border text-amber-accent text-[10px] font-bold tracking-[0.14em] uppercase px-3 py-1.5 rounded-full mb-5 font-syne"
+            className="inline-block bg-amber-dim border border-amber-border text-amber-accent text-[10px] font-bold tracking-[0.14em] uppercase px-3 py-1.5 rounded-full mb-5 font-syne text-center"
           >
-            Home Assistant szakértő · Gyöngyös
+            <span className="text-cream">D</span>igitális{" "}
+            <span className="text-cream">O</span>kos{" "}
+            <span className="text-cream">O</span>tthon{" "}
+            <span className="text-cream">Mester</span>
+            <span className="block mt-1 opacity-70">Home Assistant szakértő</span>
           </motion.span>
 
           <motion.h1
@@ -66,7 +70,7 @@ export default function Hero() {
               onClick={() => scrollTo("#kapcsolat")}
               className="bg-amber-accent text-dark font-extrabold text-sm tracking-[0.06em] uppercase px-6 py-3.5 rounded-xl hover:bg-amber-light transition-colors font-syne"
             >
-              Ingyenes konzultáció →
+              Konzultáció / Kapcsolat
             </button>
             <button
               onClick={() => scrollTo("#miert")}

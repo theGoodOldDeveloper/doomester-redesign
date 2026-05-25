@@ -124,7 +124,7 @@ export default function Header() {
                 onClick={() => handleNav("#kapcsolat")}
                 className="bg-amber-accent text-dark text-sm font-extrabold tracking-[0.06em] uppercase px-4 py-3 rounded-lg hover:bg-amber-light transition-colors font-syne text-center"
               >
-                Ingyenes konzultáció →
+                Konzultáció →
               </button>
             </div>
           </motion.div>
