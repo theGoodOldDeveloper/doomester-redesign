@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "DOOMester - Digitális Okos Otthon Mester",
   description: "Home Assistant rendszerek telepítése, konfigurálása és felügyelete Gyöngyös és környékén",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
