@@ -6,7 +6,7 @@ import Image from "next/image";
 const stats = [
   { num: "1", label: "alkalmazás az összes eszköznek" },
   { num: "15p", label: "ingyenes konzultáció" },
-  { num: "0 Ft", label: "HA szoftver havidíj örökre" },
+  { num: "24/7", label: "működik internet nélkül is" },
   { num: "30 év", label: "IT tapasztalat a hátad mögött" },
 ];
 
